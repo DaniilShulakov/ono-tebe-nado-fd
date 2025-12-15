@@ -1,0 +1,62 @@
+.cover { 
+  position: relative;
+  width: 1100px;
+  height: 757px;
+  margin: 293px auto 0;
+  background-image: url(images/cover.jpg); 
+}
+
+.description {
+  position: absolute;
+  top: 656px;
+  left: 50px;
+  display: flex;
+  width: 1000px;
+  height: 51px;
+  border: 1px solid #fff;
+}
+
+.paragraph-box {
+  display: flex;
+  align-items: center;
+  width: 637px;
+}
+
+.text {
+  width: 637px;
+  height: 28px;
+  margin: 0;
+  color: #FFFFFF;
+  font-family: Raleway;
+  font-weight: 400;
+  font-size: 22px;
+  font-style: Regular;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-transform: uppercase;
+}
+
+.buttom-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 256px;
+  height: 51px;
+  margin-left: 20px;
+  border: 1px solid #FFFFFF;
+}
+
+.buttom {
+  width: 193px;
+  padding: 12px 0;
+  color: #000000;
+  font-family: Raleway;
+  font-weight: 500;
+  font-size: 22px;
+  font-style: Medium;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFFFFF;
+}
