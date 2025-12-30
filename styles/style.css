@@ -129,7 +129,7 @@
 
 .second_part {
   margin-right: -30px;
-  letter-spacing: 30px; /* Для "ДО" */ 
+  letter-spacing: 30px; /* Для "ДО" */
 }
 
 .description {
@@ -148,14 +148,14 @@
   word-spacing: 18px;
 }
 
-.bet-button {                   
-  border: 1px solid #ffffff;                 
-  padding: 12px 32px;                          
-  color: #ffffff;                           
+.bet-button {
+  border: 1px solid #ffffff;
+  padding: 12px 32px;
+  color: #ffffff;
   font-weight: 500;
-  font-size: 22px;                        
-  text-transform: uppercase;                            
-  background: transparent;                 
+  font-size: 22px;
+  text-transform: uppercase;
+  background: transparent;           
 }
 
 /* ==== ЛОТЫ ==== */
