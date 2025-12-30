@@ -1,1 +1,1 @@
-https://github.com/DaniilShulakov/ono-tebe-nado-fd#
+https://github.com/DaniilShulakov/ono-tebe-nado-fd
