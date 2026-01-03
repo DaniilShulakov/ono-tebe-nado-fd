@@ -96,7 +96,7 @@
 .cover__title {
   position: relative;
   z-index: 2;
-  margin-bottom: 135px;
+  margin-bottom: 105px;
   font-weight: 700;
   font-size: 100px;
   line-height: 1.15;
@@ -143,7 +143,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: -30px;
   font-size: 22px;
   text-transform: uppercase;
   cursor: pointer;
@@ -204,6 +203,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   min-height: 596px;
   padding: 50px 40px;
   background-repeat: no-repeat;
@@ -237,14 +237,6 @@
   position: relative;
   z-index: 2;
   font-size: 20px;
-}
-
-.offset_big {
-  padding-top: 243px;
-}
-
-.offset_small {
-  padding-top: 96px;
 }
 
 .lots__look-more-link {
